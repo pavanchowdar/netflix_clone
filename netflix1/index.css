@@ -1,0 +1,126 @@
+.image1{
+    filter:greyscale(40%);
+    position:relative;
+    text-align:center;
+    img-align:center;
+    height:650px;
+    width:100%;
+    }
+    body{
+    flex-flow:center;
+    background-color:black;
+    }
+    #nav1{
+    color:#fff;
+    margin-left:200px;
+    
+    }
+    #nav2{
+    margin-left:1000px;
+    height:350px;
+    width:250px;
+    }
+    #nav2{
+    display:flex;
+    margin-top:-300px;
+    }
+    #video1{
+    margin-left:1070px;
+    margin-top:-215px;
+    }
+    #main{
+    color:#fff;
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    
+    }
+    #para2{
+    color:#fff;
+    margin-left:800px;
+    margin-top:200px;
+    }
+    
+    
+    .image2{
+        position:relative;
+    height:300px;
+    width:500px;
+    margin-top:-350px;
+    margin-left:150px;
+    }
+    #para3{
+    color:#fff;
+    margin-top:200px;
+    margin-left:215px;
+    
+    }
+    #video2{
+        margin-left:995px;
+        margin-top:-360px;
+    }
+    .image3{
+        position:relative;
+    height:300px;
+    width:450px;
+    margin-left:900px;
+    margin-top:-300px;
+    }
+   
+    
+    
+    h1 {text-align: center; }
+    .collapsible {
+      background-color: #777;
+      color: white;
+      cursor: pointer;
+      padding: 18px;
+      width: 50%;
+      border: none;
+      text-align: center;
+      outline: none;
+      font-size: 30px;
+    }
+    .collapsible{
+    margin-left: 350px;
+    margin-top:  10px;
+    }
+    
+    .active, .collapsible:hover {
+      background-color: #555;
+    }
+    
+    .content {
+    q padding: 0 18px;
+      max-height: 0;
+      width: 50%;
+      margin-left: 350px;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+      background-color:#555;
+      color:#fff;
+      font-size:30px;
+      
+      }
+    #question{
+    margin-top:100px;
+    }
+    table {
+    border-spacing: 10px;
+    margin-left: 300px;
+    }
+    .footer p {
+    margin-left:300px;
+    }
+    #list li a  {
+    color:#555;
+    text-decoration:none;
+    }
+    #list li a:hover{
+    text-decoration:underline;
+    }
+    .footer1{
+    color:grey;
+    margin-top:300px;
+    }
